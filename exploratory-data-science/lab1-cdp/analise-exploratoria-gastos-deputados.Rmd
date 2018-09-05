@@ -1,0 +1,20 @@
+---
+title: Análise Exploratória de Gastos dos Deputados
+date: 05 de Setembro de 2018
+output:
+  html_notebook:
+    toc: yes
+    toc_float: yes
+  html_document:
+    df_print: yes
+    toc: yes
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(here)
+library(plotly)
+```
+
+
